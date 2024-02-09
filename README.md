@@ -50,8 +50,8 @@ By working on this project, you will gain hands-on experience and proficiency in
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, create branches, and submit pull requests to enhance the functionality or fix any issues.
 
- <header style="background-color: #333; padding: 20px; text-align: center;">
-    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 400px; margin: 0 auto;">
+<header style="background-color: #333; padding: 20px; text-align: center;">
+    <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; max-width: 400px; margin: 0 auto; height: 200px;">
       <img style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;" src="Assets\1.png" alt="Image 1">
       <img style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;" src="Assets\2.png" alt="Image 2">
       <img style="width: 100%; height: 100%; object-fit: cover; border-radius: 8px;" src="Assets\3.png" alt="Image 3">
